@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name RaspberryPi-rescue)(type Legacy)(uri ${KIPRJMOD}/RaspberryPi-rescue.lib)(options "")(descr ""))
+  (lib (name RaspberryPi_BCD7SegmentDisplay-rescue)(type Legacy)(uri ${KIPRJMOD}/RaspberryPi_BCD7SegmentDisplay-rescue.lib)(options "")(descr ""))
+)
